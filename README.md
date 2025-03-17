@@ -1,5 +1,5 @@
 # About The Project
-Managing shared expenses can be a hassle, especially when dealing with multiple people, different currencies, and recurring payments. AhLoanBot was born out of this very problem.
+Managing shared expenses can be a hassle, especially when dealing with multiple people, different currencies, and recurring payments. AhLoanBot was born out of this very problem 💰.
 
 Originally conceived as a solution for tracking and collecting payments from friends for a shared ChatGPT Premium subscription, AhLoanBot automates the process of sending monthly reminders and converting USD to SGD for accurate payments. Instead of manually reminding everyone (and risking awkward follow-ups), this Telegram bot ensures timely notifications, calculates the exchange rate, and streamlines the entire process.
 
