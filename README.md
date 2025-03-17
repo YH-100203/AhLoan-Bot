@@ -7,10 +7,8 @@ Beyond its original use case, AhLoanBot can be adapted for various debt collecti
 
 By integrating Telegram Bot API and real-time currency conversion, AhLoanBot demonstrates how simple automation can solve everyday inconveniences efficiently.
 
-# AhLoan-Bot
-AhLoan-Bot is a telegram bot that sends scheduled payment reminders every month. 
 
 # IMPLEMENTATIONS
-Written in Javascript, usage of ExchangeRateAPI to get real time exchange rates. 
-Use of Google Script Triggers to create a scheduled process that runs once every month. 
+Telegram bot written in Javascript, with a usage of ExchangeRateAPI to get real time exchange rates
+as well as Google Script Triggers to create a scheduled process that runs once every month. 
 
